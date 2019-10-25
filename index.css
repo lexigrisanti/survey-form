@@ -1,0 +1,29 @@
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  text-align:center;
+
+}
+
+body {
+  background-color: #EDC9AF;
+  font-family: serif;
+
+}
+
+survey-form {
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+textarea {
+    background-color: #9EAEB3;
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+
+}
